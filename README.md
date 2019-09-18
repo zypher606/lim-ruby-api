@@ -21,3 +21,8 @@ rails s
 ```bash
 php -S localhost:8080
 ```
+
+### Test screenshots
+
+![Image of 1](/demo/1.png)
+![Image of 2](/demo/2.png)
