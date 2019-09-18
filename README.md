@@ -11,8 +11,13 @@ Intro
 * Database => Sqlite3
 
 * Run the following commands on project root directory to serve the applciation
-** 1. $ bundle instal
-** 2. $ rails s
+
+```bash
+bundle install
+rails s
+```
 
 * Also serve the demo HTML file in html-template folder by running
-** $ php -S localhost:8080
+```bash
+php -S localhost:8080
+```
