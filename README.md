@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a API written on Ruby on Rails to index domain and index header tags H1, H2 and H3 and link tag (a), saved is to the local sqlite storage.  
 
-Things you may want to cover:
+Intro
 
-* Ruby version
+* Ruby version: 2.6
 
-* System dependencies
+* System dependencies => Listed on Gem file
 
-* Configuration
+* Database => Sqlite3
 
-* Database creation
+* Run the following commands on project root directory to serve the applciation
+** 1. $ bundle instal
+** 2. $ rails s
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Also serve the demo HTML file in html-template folder by running
+** $ php -S localhost:8080
